@@ -5,7 +5,7 @@ OpenCore, drivers, and kexts are always up to date!
 
 <br/>
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.4-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.5-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![macOS](https://img.shields.io/badge/macOS-12.6-purple.svg)](https://www.apple.com/macos/monterey)
 
 :warning: **DISCLAIMER:**
@@ -17,7 +17,7 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 
 | **Category** | **Component**                          |
 | ------------ | -------------------------------------  |
-| **CPU**      | 1.8GHz Intel Core i5-8250u             |
+| **CPU**      | 1.8GHz Intel Core i5-8265u             |
 | **GPU**      | Intel UHD 620                          |
 | **RAM**      | 16GB 2400MHz DDR4                      |
 | **SSD**      | 265GB NVMe SSD (Kingspec branded)      |
